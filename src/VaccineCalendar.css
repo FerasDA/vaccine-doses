@@ -89,11 +89,7 @@ body {font-family: Verdana, sans-serif;}
 }
 
 @media screen and (max-width: 420px) {
-  .weekdays li, .days li {width: 12.5%;}
+  /* .weekdays li, .days li {width: 12.5%;} */
   .days li .pfizer {padding: 2px;}
   .days li .moderna {padding: 2px;}
-}
-
-@media screen and (max-width: 290px) {
-  .weekdays li, .days li {width: 12.2%;}
 }
